@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhoneGap Build Starter Application
 
 > A Hello World application to get started with PhoneGap Build.
@@ -48,3 +49,7 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
 [cordova-app]: http://github.com/apache/cordova-app-hello-world
 
+=======
+phonegap-start
+==============
+>>>>>>> 274d79b7f235aae3741f9c1fdfb627fb638c0c7c
